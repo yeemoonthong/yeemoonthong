@@ -1,19 +1,19 @@
-### Hi there 👋
+### Hi Everyone! 👋
 
 <div align="center">
 <img src="https://media.tenor.com/YbeueCPsUHEAAAAM/hello-wave.gif" align="center" style="width: 100%" />
 </div>  
   
-### <div align="center">I'm Yvonne, a full-time student who currently studying Master of Science(Data Science) 👩‍🎓 in University of Teknologi Malaysia 🏫</div>  
+### <div align="center">I'm Yvonne, a full-time student who currently studying Master of Science(Data Science) 👩‍🎓 in University Teknologi Malaysia 🏫[UTM] </div>  
   
 
-- 🔭 I’m currently working as a student  
+- 🔭 I’m currently working as a Hardworking Student 🦾
   
 
-- 🌱 I’m currently studying Master of Data Science  
+- 🌱 I’m currently studying Master of Science (Data Science) 🤓
   
 
-- ❓ Ask me about anything  
+- ❓ Ask me about anything 😏
   
 
 - ⚡ Fun fact: A superpower I wish to have is LUCKY😎  
@@ -22,7 +22,7 @@
 <br/>  
 
 
-## My Skill Set 
+## My Skill Set 🧰 
 
 
 
@@ -32,27 +32,19 @@
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="33%"> 
 
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
 
-## Connect with me  
+## Connect with me 📫 
 <div align="center">
 <a href="https://github.com/https://github.com/yeemoonthong" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -68,6 +60,9 @@
 </a>
 <a href="https://instagram.com/https://www.instagram.com/yvonne_thong/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+
+<a href="mailto:yvonnethong1997@gmail.com"><img src="https://img.shields.io/badge/yvonnethong1997@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:thongyeemoon@graduate.utm.my"><img src="https://img.shields.io/badge/thongyeemoon@graduate.utm.my-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>  
 </div>  
   
@@ -75,13 +70,13 @@
 <br/>  
 
 
-## Github Stats  
+## Github Stats 📈
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yeemoonthong&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 
-## Recent Blog Posts  
+## Recent Blog Posts 📑
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
