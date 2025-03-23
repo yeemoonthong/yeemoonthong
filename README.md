@@ -4,7 +4,7 @@
 <img src="https://media.tenor.com/YbeueCPsUHEAAAAM/hello-wave.gif" align="center" style="width: 100%" />
 </div>  
   
-### <div align="center">I'm Yvonne, a full-time student who currently studying Master of Science(Data Science) 👩‍🎓 in University Teknologi Malaysia 🏫[UTM] </div>  
+### <div align="center">I'm Yvonne, a Graduate of Master of Science(Data Science) 👩‍🎓 from University Teknologi Malaysia 🏫[UTM] </div>  
   
 
 - 🔭 I’m currently working as a Hardworking Student 🦾
